@@ -6,5 +6,6 @@ int main()
 	cout << "Give me two numbers from Z";
 	cin >> a;
 	cin >> b;
+	cout << a + b;
 	return 0;
 }
