@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	int a, b;
+	cout << "Give me two numbers from Z";
+	cin >> a;
+	cin >> b;
+	return 0;
+}
